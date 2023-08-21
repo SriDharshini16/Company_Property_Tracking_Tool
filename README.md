@@ -1,2 +1,2 @@
 # Company_Property_Tracking_Tool
-The Company Property Tracker is a sophisticated and user-friendly application designed to streamline the management of company assets and their allocation to employees. 
+The Company Property Tracker is a sophisticated and user-friendly application designed to streamline the management of company assets and their allocation to employees. With its intuitive interface and comprehensive features, the app empowers organizations to efficiently manage their valuable resources, track asset allocations, schedule maintenance tasks, and ensure optimal asset utilization.
